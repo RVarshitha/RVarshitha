@@ -8,5 +8,3 @@ Business Analytics professional focused on turning data into decisions — BI da
 - 📫 Reach me here on GitHub
 
 
-### Featured projects
-_Coming soon — a Power BI dashboard project and a SQL + Python analysis project._
